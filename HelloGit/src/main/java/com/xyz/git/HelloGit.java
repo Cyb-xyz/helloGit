@@ -18,6 +18,7 @@ public class HelloGit {
         System.out.println("dev分支添加");
         System.out.println("小飞侠对代码进行了修改");
         System.out.println("小宇宙修改了文件");
+        System.out.println("克隆下来的项目");
     }
 
 }
